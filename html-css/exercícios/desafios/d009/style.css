@@ -1,0 +1,29 @@
+/*formatando todos os bodys*/
+body{
+    background-color: #1d1d1d;
+}  
+/*formatando todos os titulos*/  
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+/*alinhando as thumbs no index*/
+.thumbs-videos{
+    width: auto;
+    margin: 0 auto;
+}
+/*alinhando o vídeo*/
+.video{
+    margin: 0 auto;
+    display: block;
+}
+/*alinhando o link para o video no yt*/
+.videocompleto{
+    text-align: center;
+}
+/*alinhando o icone de voltar para pagina inicial*/
+.botão{
+    display: block;
+    margin: 0 auto;
+}

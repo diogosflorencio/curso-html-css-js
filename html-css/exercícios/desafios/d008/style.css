@@ -1,0 +1,18 @@
+/* css página principal */
+.index{
+    background-color: #d3d3d3;
+}
+/*css página amarela*/
+.amarela{
+    background-color:rgb(255,255,227);
+}
+.txtamarelo{
+    color: rgb(195,136,75);
+}
+/*css página verde*/
+.verde{
+    background-color: #a6eb9a;
+}
+.txtverde{
+    color: #2a6218;
+}
